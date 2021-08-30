@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing analog electronic circuits
 - 🌱 I’m currently learning Altium, and PCB design techniques 
 - 💞️ I’m looking to collaborate on any fun new device development projects in any field of electronics
-- 📫 How to reach me christopher.h.shum@gmail.com or text me at 5105162123
+- 📫 How to reach me christopher.h.shum@gmail.com 
 
 <!---
 chrisshum/chrisshum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
